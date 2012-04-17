@@ -1,7 +1,7 @@
-name: tdtds's proxy
+name: hsbt.org
 aid:
-  jp: cshs-22
-  us: tdiarnet-20
+  jp: hsbtdiary-22
+  us: hsbt-20
 entry_point:
   'jp': http://webservices.amazon.co.jp/onca/xml
   'us': http://webservices.amazon.com/onca/xml
