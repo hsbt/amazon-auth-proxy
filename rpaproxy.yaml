@@ -1,0 +1,7 @@
+# === Your amazon-auth-proxy name
+name: hsbt.org(sqale)
+
+# === Support Locales
+locales:
+ - jp
+ - us
