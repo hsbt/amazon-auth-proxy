@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rack'
 gem 'sinatra'
-gem 'thin'
+gem 'passenger'
 
 group :development do
 	gem 'rake'
