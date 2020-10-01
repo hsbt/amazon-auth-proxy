@@ -14,7 +14,7 @@ GEM
       rack
       rake (>= 0.8.1)
     rack (1.5.2)
-    rack-protection (1.5.3)
+    rack-protection (1.5.5)
       rack
     rake (10.3.2)
     rspec (2.14.1)
